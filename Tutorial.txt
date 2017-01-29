@@ -1,1 +1,2 @@
 Hello everyone!
+Step 1 : Practice the add and commit
